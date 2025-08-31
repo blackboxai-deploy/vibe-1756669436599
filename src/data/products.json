@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "name": "Fone Bluetooth TWS Pro",
+    "category": "eletronicos",
+    "price": 89.90,
+    "originalPrice": 149.90,
+    "discount": 40,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/636a895b-4826-4848-8f4f-aa11203ed32f.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/de6f71a7-0ffe-47b7-a0b2-55a87d102325.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/92e3f56a-3524-422a-a04e-2c80633bfac7.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/601c6fa1-43ca-4947-84b4-3d3655c39bab.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Fone de ouvido Bluetooth 5.0 com cancelamento de ruído e bateria de 24h. Ideal para exercícios e uso diário.",
+    "features": [
+      "Bluetooth 5.0",
+      "Cancelamento de ruído",
+      "24h de bateria",
+      "Resistente à água IPX5",
+      "Touch control"
+    ],
+    "rating": 4.8,
+    "reviews": 324,
+    "stock": 15,
+    "shipped": "2-5 dias úteis",
+    "freeShipping": true
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch Fitness Pro",
+    "category": "eletronicos",
+    "price": 199.90,
+    "originalPrice": 299.90,
+    "discount": 33,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/cf737f88-91ed-4685-b465-357bef8d0c13.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/4779c8f2-5f33-4249-832f-d43e3b09a7e6.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/aff97575-1cb1-488b-ba12-0976ac3971b0.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/2832f4ad-8af7-49a7-9679-b87181cf9953.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Smartwatch com monitoramento de saúde, GPS e mais de 100 modalidades esportivas.",
+    "features": [
+      "Monitor cardíaco 24h",
+      "GPS integrado",
+      "100+ modalidades esportivas",
+      "Tela AMOLED 1.4\"",
+      "Bateria 7 dias"
+    ],
+    "rating": 4.7,
+    "reviews": 156,
+    "stock": 8,
+    "shipped": "3-7 dias úteis",
+    "freeShipping": true
+  },
+  {
+    "id": 3,
+    "name": "Carregador Sem Fio 15W",
+    "category": "eletronicos",
+    "price": 49.90,
+    "originalPrice": 79.90,
+    "discount": 38,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/a407166a-e8db-41bf-9635-c6638b2ca098.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/8903fb51-d743-43b6-a775-8f2602241b08.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/d9d7d5c1-fea7-412d-a618-18323a1948c4.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/bf32145d-b82c-481d-8793-c203f615c776.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Carregador sem fio de 15W com tecnologia de carregamento rápido e proteção contra superaquecimento.",
+    "features": [
+      "Carregamento rápido 15W",
+      "Compatível com todos os smartphones",
+      "Proteção contra superaquecimento",
+      "LED indicador",
+      "Base antiderrapante"
+    ],
+    "rating": 4.6,
+    "reviews": 89,
+    "stock": 23,
+    "shipped": "1-3 dias úteis",
+    "freeShipping": false
+  },
+  {
+    "id": 4,
+    "name": "Luminária LED RGB Inteligente",
+    "category": "casa",
+    "price": 129.90,
+    "originalPrice": 199.90,
+    "discount": 35,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/d1b0c565-095d-45c5-b144-add8c0ac0dbf.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/dcca3658-33fe-429d-91c8-5bdd43bc23dc.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/730250a8-88c2-4df5-95b4-c78dcc629f3d.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/e89fe804-0708-4580-a0ae-e53f0f57d0d0.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Luminária inteligente com 16 milhões de cores, controle por app e sincronização com música.",
+    "features": [
+      "16 milhões de cores",
+      "Controle por app",
+      "Sincronização com música",
+      "Timer programável",
+      "Compatível com Alexa"
+    ],
+    "rating": 4.9,
+    "reviews": 245,
+    "stock": 12,
+    "shipped": "2-4 dias úteis",
+    "freeShipping": true
+  },
+  {
+    "id": 5,
+    "name": "Organizador Modular Premium",
+    "category": "casa",
+    "price": 79.90,
+    "originalPrice": 119.90,
+    "discount": 33,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/d30c8b42-b246-4372-8266-e5de635e4101.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/43f88e0e-c825-45fb-8fde-5115b42f1a82.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/dd09999c-e670-4075-b5d6-92dc0a80d63b.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/5466c543-81a9-4b12-b02f-b88f02819c62.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Sistema de organização modular transparente, empilhável e resistente.",
+    "features": [
+      "Material transparente resistente",
+      "Sistema empilhável",
+      "Fechamento hermético",
+      "Múltiplos tamanhos",
+      "Fácil montagem"
+    ],
+    "rating": 4.5,
+    "reviews": 134,
+    "stock": 31,
+    "shipped": "2-5 dias úteis",
+    "freeShipping": false
+  },
+  {
+    "id": 6,
+    "name": "Massageador Facial Sônico",
+    "category": "beleza",
+    "price": 159.90,
+    "originalPrice": 249.90,
+    "discount": 36,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/ed9badfc-f2e7-4f42-ab5d-4ce86ca760d1.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/2135ed41-b5c8-4f65-b35e-847b8582df4e.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/8c2e7d38-bf34-4b5e-b839-3d8b2037b9da.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/23b34e51-6102-45f4-ae30-966a29bc6476.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Massageador facial com tecnologia sônica para limpeza profunda e rejuvenescimento da pele.",
+    "features": [
+      "Tecnologia sônica 10,000 vibrações/min",
+      "Silicone medicinal hipoalergênico",
+      "3 níveis de intensidade",
+      "Resistente à água",
+      "Bateria recarregável"
+    ],
+    "rating": 4.8,
+    "reviews": 267,
+    "stock": 9,
+    "shipped": "3-6 dias úteis",
+    "freeShipping": true
+  },
+  {
+    "id": 7,
+    "name": "Kit Cuidados para Unhas Profissional",
+    "category": "beleza",
+    "price": 69.90,
+    "originalPrice": 109.90,
+    "discount": 36,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/cd1056e0-4049-46df-88a6-df4cc4a157dd.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/25814341-5dfd-468e-86d9-5cfd156fd5e3.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/5d5f759c-0362-414f-a345-ca237655d253.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/56d2df38-d2e0-4c11-8aef-2befb0500328.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Kit completo com 12 ferramentas profissionais para cuidados das unhas.",
+    "features": [
+      "12 ferramentas profissionais",
+      "Aço inoxidável cirúrgico",
+      "Estojo elegante incluído",
+      "Alicate de precisão",
+      "Lima de vidro premium"
+    ],
+    "rating": 4.7,
+    "reviews": 178,
+    "stock": 27,
+    "shipped": "1-4 dias úteis",
+    "freeShipping": false
+  },
+  {
+    "id": 8,
+    "name": "Faixa Elástica Resistência Premium",
+    "category": "fitness",
+    "price": 39.90,
+    "originalPrice": 69.90,
+    "discount": 43,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/fc0eeb05-343a-44db-ba16-c29869f8d5d4.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/3c5b9262-2d16-4a65-9aa9-3f9020ac8b3c.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/833b822d-289b-4142-a73c-d28e23b71cfa.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/2eb97892-3302-4142-bb21-d87b79de34a1.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Kit com 5 faixas elásticas de diferentes resistências para treino completo em casa.",
+    "features": [
+      "5 níveis de resistência",
+      "Material látex natural",
+      "Alças ergonômicas",
+      "Âncora para porta incluída",
+      "Guia de exercícios"
+    ],
+    "rating": 4.6,
+    "reviews": 298,
+    "stock": 42,
+    "shipped": "1-3 dias úteis",
+    "freeShipping": false
+  },
+  {
+    "id": 9,
+    "name": "Garrafa Térmica Inteligente",
+    "category": "fitness",
+    "price": 119.90,
+    "originalPrice": 179.90,
+    "discount": 33,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/731ee8a8-2793-41c9-b827-9d91e4b5be88.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/760473fc-244b-4a3a-bed7-98477f56b05e.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/d8d76282-a28b-45ef-b7cf-a133772dcb92.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/ebf08d6e-6238-4d11-bc3a-57a11e2d63eb.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Garrafa térmica inteligente com display de temperatura e lembrete de hidratação.",
+    "features": [
+      "Display de temperatura LED",
+      "Lembrete de hidratação",
+      "Mantém temperatura por 12h",
+      "Aço inoxidável premium",
+      "Conexão Bluetooth"
+    ],
+    "rating": 4.8,
+    "reviews": 143,
+    "stock": 18,
+    "shipped": "2-5 dias úteis",
+    "freeShipping": true
+  },
+  {
+    "id": 10,
+    "name": "Power Bank 20000mAh Portátil",
+    "category": "eletronicos",
+    "price": 99.90,
+    "originalPrice": 159.90,
+    "discount": 38,
+    "image": "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/35fbdcf3-98b7-46c1-89d1-08c50ebfc2ff.png",
+    "images": [
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/97d4db27-5d6e-4730-9c89-9e5234f4cdc3.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/19e45def-8df9-449a-9c9d-6ad4192d35dd.png",
+      "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/6dbf4ccd-b114-4318-8570-14669e6050ce.png"
+    ],
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Power bank de alta capacidade com display digital e carregamento rápido para múltiplos dispositivos.",
+    "features": [
+      "Capacidade 20000mAh",
+      "Display digital de bateria",
+      "Carregamento rápido 22.5W",
+      "3 portas de saída",
+      "Proteção contra sobrecarga"
+    ],
+    "rating": 4.7,
+    "reviews": 189,
+    "stock": 25,
+    "shipped": "2-4 dias úteis",
+    "freeShipping": true
+  }
+]
